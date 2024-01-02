@@ -1,7 +1,7 @@
 <p align="center">
   <img src="assets/logo/web3js.jpg" width="300" alt="web3.js" />
 </p>
-
+ 
 # Web3.js
 
 [![Dependency Status][downloads-image]][npm-url] ![Unit Test Coverage](https://img.shields.io/codecov/c/github/web3/web3.js/4.x?label=unit%20test%20coverage)
